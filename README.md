@@ -18,3 +18,15 @@ A página contém:
 ---
 
 ## 📂 Estrutura de arquivos
+
+```
+CatPhotoApp/
+│── index.html   # Código principal do projeto
+│── README.md    # Documentação do projeto
+```
+
+---
+
+## 📖 Créditos
+
+Projeto baseado no exercício do curso **Responsive Web Design** do [freeCodeCamp](https://www.freecodecamp.org/).
